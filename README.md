@@ -1,4 +1,4 @@
-Asset Management Complaint Status( HCL Tech)
+Asset Management Complaint Status
 Description:
 Designed and implemented a dynamic dashboard system to facilitate the analysis of non-compliant and non-reporting tools in employee systems, aimed at ensuring robust cybersecurity and data protection measures. The dashboard provides real-time insights into the status of each tool across employee systems, enabling senior management to identify and address compliance issues promptly. Responsibilities encompassed developing a user-friendly interface, integrating data analysis and visualization techniques, and automating email notifications for informing managers about non-compliant tools.
 
