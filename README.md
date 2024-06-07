@@ -15,3 +15,7 @@ I conducted thorough data analysis to extract pertinent information regarding th
 
 
 Skills: Microsoft Power BI · Python (Programming Language) · Data preprocess · Data Analysis · Possess strong analytical · Data Visualization · Data Cleaning · Problem Solving · Microsoft Excel · Pyhton Libraries · Data Mapping · Data Modeling
+
+Special Features:
+Interactive Tool Navigation: On the Compliance Management page, clicking on tools like SEP, DLP, HX, etc., navigates to a detailed page with more information about the selected tool.
+Documentation Access: If users need more information about a tool, they can click the "SEP Tool" button on the detailed page to open a Google documentation link, providing comprehensive information about the SEP tool.
